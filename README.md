@@ -8,3 +8,6 @@ https://myportfoliocode.42web.io
 My Facebook
 https://www.facebook.com/kaloskl.kaloskl
 
+Join Whith me in Channel Discord WPU(Web Programing Unpas)
+https://discord.gg/wpu
+
