@@ -337,7 +337,7 @@
 
     setTimeout(() => {
       loader.style.visibility = "hidden";
-      let menuju_href = "https://www.instagram.com/rioladimas0101/";
+      let menuju_href = "https://www.instagram.com/rio_q0q0";
       window.location.href = menuju_href;
 
     }, 3000);
