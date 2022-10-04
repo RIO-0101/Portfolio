@@ -1,13 +1,13 @@
 <h1> My portfolio</h1>
-<h3>Hello friends, my name is Rio ladimas 👋
-this my first portfolio website 🥰</h3>
+<h4>Hello friends, my name is Rio ladimas 👋
+this my first portfolio website 🥰</h4>
 
 https://myportfoliocode.42web.io
-
-My Facebook
+<hr>
+<h4>My Facebook</h4>
 https://www.facebook.com/kaloskl.kaloskl
-
-Join Whith me in Channel Discord WPU(Web Programing Unpas)
+<hr>
+<h4>Join Whith me in Channel Discord WPU(Web Programing Unpas)</h4>
 
 https://discord.gg/wpu
 
