@@ -1,6 +1,4 @@
-<div style="text-align:center"><img src="https://drive.google.com/uc?id=1LtrrH3v5110AC-DBal50iA96yfHaAzcr" /></div>
-
-
+<img src="https://drive.google.com/uc?id=1LtrrH3v5110AC-DBal50iA96yfHaAzcr" />
 
 
 
@@ -10,10 +8,10 @@ this my first portfolio website 👋🥳</h4>
 
 https://myportfoliocode.42web.io
 <hr>
-<h4>My Facebook</h4>
+<h2>My Facebook</h2>
 https://www.facebook.com/kaloskl.kaloskl
 <hr>
-<h4>Join Whith me in Channel Discord WPU(Web Programing Unpas)</h4>
+<h2>Join Whith me in Channel Discord WPU(Web Programing Unpas)</h2>
 
 https://discord.gg/wpu
 
