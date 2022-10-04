@@ -1,7 +1,6 @@
-# myportfolio
-
-Hello friends, my name is Rio ladimas 👋
-this my first portfolio website 🥰
+<h1> My portfolio</h1>
+<h3>Hello friends, my name is Rio ladimas 👋
+this my first portfolio website 🥰</h3>
 
 https://myportfoliocode.42web.io
 
