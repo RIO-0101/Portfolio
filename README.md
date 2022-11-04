@@ -5,7 +5,8 @@
 <h1> My portfolio</h1>
 <h4>Hello friends, my name is Rio ladimas
 this my first portfolio website 👋🥳</h4>
-https://myportfoliocode.42web.io
+https://rio-0101.github.io/Portfolio/
+
 
 <h2>Preview light mode</h2>
 <img src="https://drive.google.com/uc?id=150_MATesvxRITJjjb8ca-0kfwzq28_9R"/>
