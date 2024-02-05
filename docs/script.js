@@ -185,7 +185,7 @@ BtnDownload.addEventListener("click", () => {
 
     setTimeout(() => {
       loader.style.visibility = "hidden";
-      let download_href = "https://drive.google.com/uc?export=download&id=1-6nnwS6qHllboQ6eFZolMEt0IpCtkkkX/view?usp=drivesdk";
+      let download_href = "https://drive.google.com/uc?export=download&id=1-6nnwS6qHllboQ6eFZolMEt0IpCtkkkX";
       window.location.href = download_href;
 
     }, 4000)
