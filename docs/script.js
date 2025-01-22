@@ -154,7 +154,7 @@ Gmail.addEventListener('click', () => {
   loader.style.visibility = "visible";
   setTimeout(() => {
     loader.style.visibility = "visible";
-    let gmail = "mailto: lautuganteng@gmail.com?subject=DO%20YOU%20HAVE%20ANY%20SUGGESTION%20AND%20FEEDBACK%20?";
+    let gmail = "mailto: rioladimas@gmail.com?subject=DO%20YOU%20HAVE%20ANY%20SUGGESTION%20AND%20FEEDBACK%20?";
     window.location.href = gmail;
   }, 3000)
 });
@@ -165,7 +165,7 @@ WhatsApp.addEventListener('click', () => {
   loader.style.visibility = "visible";
   setTimeout(() => {
     loader.style.visibility = "visible";
-    let WhatsApp = "https://api.whatsapp.com/send?phone=6283184989872&text=Your%20name:%0AYour%20E-mail:%0AMessages:";
+    let WhatsApp = "https://api.whatsapp.com/send?phone=6283829406277&text=Your%20name:%0AYour%20E-mail:%0AMessages:";
     window.location.href = WhatsApp;
   }, 3000)
 });
